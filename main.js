@@ -1,3 +1,3 @@
-let message = "Hello, world!";
-message = "Good morning, Mikey!";
-console.log(message); 
+let message = "Good morning, Mikey!";
+message = "How are you, Mikey?";
+console.log(message);
